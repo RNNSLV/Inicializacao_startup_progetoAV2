@@ -1,0 +1,6 @@
+{
+  "name": "AjeitaLar Fortaleza",
+  "description": "Marketplace sob demanda de serviços domésticos em Fortaleza e Região Metropolitana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
